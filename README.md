@@ -1,2 +1,2 @@
 # fullstackopen
-My Progress through through https://fullstackopen.com
+My Progress through the https://fullstackopen.com course
